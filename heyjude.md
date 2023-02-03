@@ -1,10 +1,10 @@
 ## Hey Jude
 About
-Released: 1968
-Album: Hey Jude
-Artist: The Beatles
-Genres: Pop rock, Children's Music, Rock, Folk
-Nominations: Grammy Award for Song of the Year  
++Released: 1968
++Album: Hey Jude
++Artist: The Beatles
++Genres: Pop rock, Children's Music, Rock, Folk
++Nominations: Grammy Award for Song of the Year  
 
 ---
 **Lyrics**
